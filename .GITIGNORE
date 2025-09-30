@@ -1,6 +1,12 @@
-queries.sql
 movies_metadata.csv
 credits.csv
 keywords.csv 
 ratings.csv
 links.csv
+
+charts/bar_chart_company_ratings.png
+charts/histogram_runtime_distribution.png
+charts/horizontal_bar_chart_top_actors.png
+charts/line_chart_budget_revenue_trends.png
+charts/pie_chart_genre_distribution.png
+visualisation.py
