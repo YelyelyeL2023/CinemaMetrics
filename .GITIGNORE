@@ -9,4 +9,5 @@ charts/histogram_runtime_distribution.png
 charts/horizontal_bar_chart_top_actors.png
 charts/line_chart_budget_revenue_trends.png
 charts/pie_chart_genre_distribution.png
-visualisation.py
+charts/scatter_plot_budget_vs_revenue.png
+exports/cinemametrics_report.xlsx
